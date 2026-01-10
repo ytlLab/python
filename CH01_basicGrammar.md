@@ -1,3 +1,5 @@
+第一章程式碼：[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ytlLab/PYTHON/blob/main/CH01_basicGrammar.ipynb)
+
 # 概述
 Python從發明至今的近三十年，市面上有好幾種Python開發環境軟體，像是PyCharm CE、Spyder、Visual Studio Code等等，每一種IDE都有優缺點。</br>
 Google Colab是Google提供的一個在Python雲端執行環境，由Google提供免費的CPU虛擬機，只要打開瀏覽器就可以運作。</br>
@@ -55,7 +57,7 @@ print(a3)
    -   換行：\n
    -   抓取字串中某文字：字串[]
 ```
-練習字串1
+#練習字串1
 #字串可用雙引號或單引號包括	#字串會對內部字元編號，從0開始
 a='你好'
 b="你好"
